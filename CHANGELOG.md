@@ -9,9 +9,14 @@
 - install docker
 - install desktop-sync
 - install python3 python3 venv
+- install dfeet (dbus)
+- install extension host
 
 
 
+- configure firewall
+- configure ssh
+- configure gpg
 
 
 
