@@ -1,0 +1,23 @@
+{
+  "name": "linux-init",
+  "version": "0.0.1",
+  "description": "linux-init",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concept10/linux-init.git"
+  },
+  "keywords": [
+    "linux",
+    "init"
+  ],
+  "author": "concept10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/concept10/linux-init/issues"
+  },
+  "homepage": "https://github.com/concept10/linux-init#readme"
+}
