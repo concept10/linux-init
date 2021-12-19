@@ -1,4 +1,4 @@
-# linux-config
-linux-config
+# linux-init
+linux-init
 
 automata developer tooling install
