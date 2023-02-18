@@ -1,7 +1,7 @@
 {
-  "name": "linux-init",
-  "version": "0.0.1",
-  "description": "linux-init",
+  "name": "linux-config",
+  "version": "0.0.2",
+  "description": "linux-config",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -12,14 +12,15 @@
   },
   "keywords": [
     "linux",
-    "init"
+    "config",
+    "dotfiles",
   ],
   "author": "concept10",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/concept10/linux-init/issues"
+    "url": "https://github.com/concept/10/linux-init/issues"
   },
-  "homepage": "https://github.com/concept10/linux-init#readme",
+  "homepage": "https://github.com/concept/10/linux-init#readme",
   "dependencies": {
     "chalk-animation": "^1.6.0",
     "commander": "^8.3.0"

@@ -4,9 +4,9 @@
 
 const { Command } = require('commander');
 const program = new Command();
-const chalkAnimation = require('chald-animation');
+const chalkAnimation = require('chalk-animation');
 
-chalkAnimation.rainbow('Linix Init - Version 0.1.1');
+chalkAnimation.rainbow('Linux Config - Version 0.1.1');
 program.version('0.0.1');
 
 program
