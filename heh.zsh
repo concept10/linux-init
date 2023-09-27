@@ -1,18 +1,15 @@
 #!/bin/zsh
 
 # List of current_extension to search for
-current_extension=(
-    oclock@ortega.tech
+current_extensions=(
+    
     the-circles-widget@xenlism.github.io
     flypie@schneegans.github.com
     upower-battery@codilia.com
-    gsconnect@andyholmes.github.io
     waylandorx11@injcristianrojas.github.com
     dash-to-dock@micxgx.gmail.com
     appindicatorsupport@rgcjonas.gmail.com
     floatingDock@sun.wxg@gmail.com
-    WhatWatch@Zappo-II.github.io
-    CoverflowAltTab@palatis.blogspot.com
     desktop-cube@schneegans.github.com
     cairo@eexpss.gmail.com
     transparent-window-moving@noobsai.github.com

@@ -12,8 +12,6 @@
 - install dfeet (dbus inspector)
 - install extension host [gnome-extensions]
 - ufw/gufw
-- go
-- rust
 - vmware workstation
 - 
 
